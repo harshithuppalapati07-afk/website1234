@@ -143,7 +143,7 @@ const siteConfig = {
   ],
 
   contact: {
-    email: 'your.email@example.com',
+    email: 'harshithuppalapati07@gmail.com',
     linkedin: 'https://www.linkedin.com/in/your-linkedin/',
     github: 'https://github.com/your-username',
     googleScholar: 'https://scholar.google.com/citations?user=YOURID',
