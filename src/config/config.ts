@@ -12,17 +12,12 @@ const siteConfig = {
     description:
       'I am an Economics with Data Science undergraduate with a strong interest in applied economic analysis, particularly in areas like unemployment, market dynamics, and business strategy. Alongside my academic work, I engage in research-driven projects and practical initiatives that connect data, policy, and real-world decision-making.' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
-      '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
-      '\n' +
-      'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+    tagline: 'Exploring economics through data and finance',
+    location: 'Banglore,India',
   },
 
   seo: {
-    title: 'Your Name – Your Title',
+    title: 'Uppalpati Harshith – Economics with Data Science',
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
@@ -51,16 +46,16 @@ const siteConfig = {
 
   education: [
     {
-      institution: 'Your Institution',
-      degree: 'Your Degree',
-      year: 'YYYY–YYYY',
+      institution: 'Christ University',
+      degree: 'Economics with Data Science',
+      year: '2025-2026',
       image: getAsset('images/education/placeholder.png'),
       description: ['Brief description of your focus or thesis'],
     },
     {
-      institution: 'Another Institution',
-      degree: 'Another Degree or Certificate',
-      year: 'YYYY–YYYY',
+      institution: 'Maharishi Vidya Mandir',
+      degree: 'Higher Secondary Education',
+      year: '2023-2025',
       image: getAsset('images/education/placeholder.png'),
       description: ['Key topics or skills learned'],
     },
@@ -69,7 +64,7 @@ const siteConfig = {
 // ✅ Unified MOOC + Certifications Section
   certifications: [
     {
-      title: 'Your Certificate or Specialization',
+      title: 'Investment Banking Virtual Experience',
       specialization: true,
       file: getAsset('images/education/Certifications/download.svg'),
       certificates: [
