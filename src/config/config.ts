@@ -144,10 +144,8 @@ const siteConfig = {
 
   contact: {
     email: 'harshithuppalapati07@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/your-linkedin/',
-    github: 'https://github.com/your-username',
-    googleScholar: 'https://scholar.google.com/citations?user=YOURID',
-    orcid: 'https://orcid.org/0000-0000-0000-0000',
+    linkedin: 'https://www.linkedin.com/in/harshith-uppalapati-77427a348/',
+    github: 'https://github.com/harshithuppalapati07-afk',
   },
 };
 
